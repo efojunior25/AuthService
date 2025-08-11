@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.Xunim</groupId>
-    <artifactId>JavaTraining01</artifactId>
+    <artifactId>AuthService</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>JavaTraining01</name>
     <description>JavaTraining01</description>

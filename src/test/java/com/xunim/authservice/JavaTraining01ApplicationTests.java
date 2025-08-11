@@ -1,4 +1,4 @@
-package com.xunim.javatraining01;
+package com.xunim.authservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
